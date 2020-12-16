@@ -1,6 +1,10 @@
 <!DOCTYPE html>
 <h1>Introduction to OOPS</h1>
+<<<<<<< HEAD:README.md
 <img src="Images/oops.png" alt="OOPS">
+=======
+<img src="Images\oops.png" alt="OOPS">
+>>>>>>> master:Introduction to OOPs/README.md
 <h2>Procedural Programming </h2>
 <p>If you’re here, you’re probably familiar with the basics of programming already and have used methods in
  your programs at some point.Procedural programming is one programming paradigm among many.In procedural programming, a program is 
@@ -14,7 +18,11 @@ Programming isn’t much use if you can’t model real-world scenarios using cod
 This is where Object-Oriented Programming comes into play.</p>
 <p><code>The basic idea of OOP is to divide a sophisticated program into a bunch of objects talking to each other.</code>
 Objects in a program frequently represent real-world objects.</p>
+<<<<<<< HEAD:README.md
 <img src="Images/Image1.png">
+=======
+<img src="Images\Image1.png">
+>>>>>>> master:Introduction to OOPs/README.md
 <p>Many other objects serve application logic and have no direct, real-world parallels. They manage things like authentication, templating, request handling, or any of the other myriad features needed for a practical application.</p>    
 <h2>Anatomy of Objects and Classes #</h2>
 <p>Objects may contain data in the form of fields (variables) and methods to operate on that data.</p>
