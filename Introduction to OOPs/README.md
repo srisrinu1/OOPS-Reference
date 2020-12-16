@@ -30,4 +30,6 @@ Well, the answer to the above question is classes.</p>
 
 <p>There can be many different objects of the same class. Each can be in an independent state, but they all share the same behavior and characteristics.</p>
 
-<## User-Defined Data Types #>
+<h2>User-Defined Data Types </h2>
+<p>It can be inferred from the discussion above that classes are user-defined data types implemented using primitive data types, e.g.<b> boolean, int, char etc.</b> While primitive data types only focus on modeling the state of the object, user-defined data types can encapsulate state and its behaviors into a unit.</p>
+<img src="image3.png">
