@@ -16,3 +16,11 @@ This is where Object-Oriented Programming comes into play.</p>
 Objects in a program frequently represent real-world objects.</p>
 <img src="Image1.png">
 <p>Many other objects serve application logic and have no direct, real-world parallels. They manage things like authentication, templating, request handling, or any of the other myriad features needed for a practical application.</p>    
+<h2>Anatomy of Objects and Classes #</h2>
+<p>Objects may contain data in the form of fields (variables) and methods to operate on that data.</p>
+<p>Think about the real-world objects around you. What are the characteristics of these objects? Take the example of a light bulb. It has a <b>state</b>, i.e., either it is on or off. It also has a <b>behavior</b>, i.e., when you turn it on it lights up, and when turned off, it stops spreading light. To conclude this, one can say:</p>
+<code>Objects are a collection of data and their behaviors.</code>
+<p>Interesting! Isn’t it? But the question is “where do these objects come from?”
+
+Well, the answer to the above question is classes.</p>
+<code>A Class can be thought of as a blueprint for creating objects.</code>
