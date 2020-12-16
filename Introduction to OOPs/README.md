@@ -2,9 +2,8 @@
 <h1>Introduction to OOPS</h1>
 
 <img src="Images/oops.png" alt="OOPS">
-=======
-<img src="Images\oops.png" alt="OOPS">
->>>>>>> master:Introduction to OOPs/README.md
+
+
 <h2>Procedural Programming </h2>
 <p>If you’re here, you’re probably familiar with the basics of programming already and have used methods in
  your programs at some point.Procedural programming is one programming paradigm among many.In procedural programming, a program is 
