@@ -24,3 +24,10 @@ Objects in a program frequently represent real-world objects.</p>
 
 Well, the answer to the above question is classes.</p>
 <code>A Class can be thought of as a blueprint for creating objects.</code>
+<p>The below illustration shows what a <b>LightBulb</b> class should look like:</p>
+<img src="image2.png",alt="classes">
+<p>From the above illustration, you can see that the state of the object is generally modeled using variables in a class, and the behavior is modeled using methods.</p>
+
+<p>There can be many different objects of the same class. Each can be in an independent state, but they all share the same behavior and characteristics.</p>
+
+<## User-Defined Data Types #>
