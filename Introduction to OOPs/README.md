@@ -8,13 +8,11 @@
  of procedural programming is code reusability. However, the implementation of a complex real-world scenario becomes a difficult task 
   unwieldy.</p>
  <h2>Object-Oriented Programming </h2> 
- <p><code>Object-oriented programming, also referred to as <b>OOP</b>, is a programming paradigm that includes, or relies, on the concept
-     of classes and objects.</code>
-The basic entities in object-oriented programming are classes and objects.
+ <p><code>Object-oriented programming, also referred to as <b>OOP</b>, is a programming paradigm that includes, or relies, on the concept of classes and objects.</code></p>
+<p></p>The basic entities in object-oriented programming are classes and objects.
 Programming isn’t much use if you can’t model real-world scenarios using code, right? 
-This is where Object-Oriented Programming comes into play.
-<code>The basic idea of OOP is to divide a sophisticated program into a bunch of objects talking to each other.</code>
-Objects in a program frequently represent real-world objects.
+This is where Object-Oriented Programming comes into play.</p>
+<p><code>The basic idea of OOP is to divide a sophisticated program into a bunch of objects talking to each other.</code>
+Objects in a program frequently represent real-world objects.</p>
 <img src="Image1.png">
-    </p>
 <p>Many other objects serve application logic and have no direct, real-world parallels. They manage things like authentication, templating, request handling, or any of the other myriad features needed for a practical application.</p>    
